@@ -6,9 +6,6 @@
     <title>My Video</title>
 </head>
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background-color:#f9f9f9;">
-    <video width="80%" controls>
-        <source src="https://drive.google.com/uc?export=download&id=1r6AcCChgPMe4ovWXvLA8n86rGjXp_DZU" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <iframe src="https://player.vimeo.com/video/1013825994?background=1" width="80%" height="450" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>
