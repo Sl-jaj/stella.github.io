@@ -6,6 +6,6 @@
     <title>My Video</title>
 </head>
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background-color:#f9f9f9;">
-    <iframe src="https://vimeo.com/1016494585?share=copy#t=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://vimeo.com/1016494585?share=copy" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>
